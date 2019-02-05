@@ -26,5 +26,8 @@ public class Alien {
                 + " arms and " + legs + " legs.");
         return description;
     }
+    public double MemeSalad(){
+        return 3.2;
+    }
     
 }
