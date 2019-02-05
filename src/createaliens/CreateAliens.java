@@ -14,5 +14,7 @@ public class CreateAliens {
         System.out.println(newAlien2.toString());
         
     }
-    
+    public static void michaelWasHere(){
+        System.out.println("Michael was here");
+    }
 }
